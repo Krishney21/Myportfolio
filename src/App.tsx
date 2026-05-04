@@ -215,7 +215,7 @@ function App() {
         <motion.button
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
-          onClick={() => window.open('https://github.com/Krishna-77777')}
+          onClick={() => window.open('https://github.com/Krishney21?tab=repositories')}
           className="inline-flex items-center px-6 py-3 border border-blue-400 text-base font-medium rounded-md text-blue-400 bg-transparent hover:bg-blue-900 hover:bg-opacity-50"
         >
           View Projects
